@@ -2,7 +2,7 @@
 <h1 align="center">🌙✨ Oi, eu sou a Verônica! ✨🌙</h1>
 
 <p align="center">
-  💖 Estudante de Java | 🧪 Explorando códigos mágicos | 🎮 Apaixonada por Minecraft e mundos encantados 💖
+  💖 Estudante de python | 🧪 Explorando códigos mágicos | 🎮 Apaixonada por Minecraft e mundos encantados 💖
 </p>
 
 ---
@@ -10,14 +10,14 @@
 ## 🔮 Sobre mim
 
 Sou uma jovem bruxinha dev 🧙‍♀️ apaixonada por programação!  
-Descobri que Java pode ser tão encantador quanto poções e feitiços — principalmente quando se mistura com Minecraft 😄  
+Descobri que python pode ser tão encantador quanto poções e feitiços — principalmente quando se mistura com Minecraft 😄  
 Aqui compartilho minha jornada, aprendizados e feitiços em forma de código!
 
 ---
 
 ## ✨ Tecnologias que estou aprendendo
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![python](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -25,7 +25,7 @@ Aqui compartilho minha jornada, aprendizados e feitiços em forma de código!
 
 ## 🧪 Interesses mágicos
 
-- Criar meu **primeiro mod no Minecraft** com Java 💎
+- Criar meu **primeiro mod no Minecraft** com python💎
 - Transformar códigos em encantamentos ⚗️
 - Misturar aprendizado com diversão ✨
 
@@ -41,7 +41,7 @@ Aqui compartilho minha jornada, aprendizados e feitiços em forma de código!
 
 ## 📚 Feitiços aprendidos recentemente
 
-- ☕ Curso de Java (iniciante)
+- ☕ Curso de python (iniciante)
 - 🧹 Introdução a SQL e dados
 - 🪄 Trilha de programação pela DIO
 
